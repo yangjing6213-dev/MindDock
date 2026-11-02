@@ -2,6 +2,13 @@
 
 > A reviewable, backup-friendly, portable memory workflow for AI agents and AI creators.
 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) [![MIT](https://img.shields.io/badge/MIT-yellowgreen?style=flat-square)](LICENSE)
+
+![MindDock project cover](assets/portfolio-promo-2026-11-02/cover-en.jpg)
+
+[简体中文 README](README.md) · [中文封面](assets/portfolio-promo-2026-11-02/cover-zh.jpg) · [中文配图](assets/portfolio-promo-2026-11-02/overview-zh.jpg)
+
+
 [中文说明](README.md)
 
 MindDock turns project knowledge, stable preferences, pending candidates, and daily records into ordinary Markdown files. Codex can read the relevant context on demand, while people can open, inspect, and back up the vault directly with Obsidian.
@@ -9,6 +16,11 @@ MindDock turns project knowledge, stable preferences, pending candidates, and da
 This is not a promise of magical “permanent memory”. It is a bounded workflow: durable information enters `inbox/`, important facts keep their provenance, conflicts stay pending for human review, and Native scheduled maintenance is used only when the local capability is available.
 
 ## What it provides
+
+![MindDock workflow overview](assets/portfolio-promo-2026-11-02/overview-en.jpg)
+
+> AI concept illustration: this image explains the workflow; it is not a real interface or proof that a scheduled task ran.
+
 
 - A project-scoped `codex-memory/` vault rooted at the current project by default.
 - Obsidian-compatible Markdown without a database or dedicated plugin.
